@@ -1,5 +1,5 @@
 # About Me🚀:
-MERN Stack Developer, I specialize in building full-stack web applications using the powerful combination of MongoDB, Express.js, React.js, and Node.js. <br>Front-end: React.js, HTML, CSS, JavaScript (ES6+), Bootstrap, Material UI<br>Back-end: Node.js, Express.js, RESTful API Development<br>Database: MongoDB, Mongoose<br>Version Control: Git, GitHub
+Python FullStack Developer, I specialize in building full-stack web applications using the powerful combination of MongoDB, Express.js, React.js, and Node.js. <br>Front-end: React.js, HTML, CSS, JavaScript (ES6+), Bootstrap, Material UI<br>Back-end: Node.js, Express.js, RESTful API Development<br>Database: MongoDB, Mongoose<br>Version Control: Git, GitHub
 
 
 ## 🌐 Socials:
